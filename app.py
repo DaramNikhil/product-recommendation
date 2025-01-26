@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load and preprocess data
 file_path_1 = r'D:\FREELANCE_PROJECTS\product-recommendation\data\All Electronics.csv'
 file_path_2 = r'D:\FREELANCE_PROJECTS\product-recommendation\data\Air Conditioners (1).csv'
 
